@@ -45,3 +45,7 @@
         name: docker
         state: started
         enabled: yes
+
+    - 
+      name: Pulling an image
+      command: "docker image pull httpd:latest"
