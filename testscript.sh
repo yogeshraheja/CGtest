@@ -10,3 +10,4 @@ echo "Permission has been changed to 777"
 echo "Hello hello hello" > /tmp/jenkinstestagain
 sleep 30
 echo "Build has been completed successfully"
+echo "Testing again that the new commits are working with new build"
